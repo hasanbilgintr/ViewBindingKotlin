@@ -1,6 +1,6 @@
 *.kotlin linguist-detectable=true
 
-*.java linguist-detectable=false
+*.csharp linguist-detectable=false
 
 *.js linguist-detectable=false
 
